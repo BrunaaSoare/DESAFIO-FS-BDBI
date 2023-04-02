@@ -28,7 +28,7 @@ INSERT INTO integrante (nome,idade,cpf,sexo)
 VALUES
 ('Julia',35,45904761856,'F'),
 ('LUANA',43,98765845678,'F'),
-('MARIA',39,87589618566,'F);
+('MARIA',39,87589618566,'F');
 
 SELECT * FROM card;
 INSERT INTO card (datavenda,tipo)
